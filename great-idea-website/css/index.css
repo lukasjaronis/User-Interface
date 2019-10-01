@@ -54,12 +54,12 @@ box-sizing: border-box;
 
 html, body {
 height: 100%;
-font-family: 'Titillium Web', sans-serif;
+font-family: 'Mansalva', cursive;
 }
 
 h1, h2, h3, h4, h5 {
-font-family: 'Bangers', cursive;
-letter-spacing: 1px;
+font-family: 'Mansalva', cursive;
+letter-spacing: 3px;
 margin-bottom: 15px;
 }
 
@@ -234,4 +234,10 @@ nav li {
 
 #copyright {
 	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: orange;
+	font-weight: bolder;
 }
